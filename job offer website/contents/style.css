@@ -1,0 +1,60 @@
+﻿@font-face {
+    font-family: myfont;
+    src: url('font/DroidKufi-Regular.ttf');
+}
+
+@font-face {
+    font-family: myfont2;
+    src: url('font/DroidNaskh-Bold.ttf');
+}
+
+.navbar-defualt {
+    background-color: #808080;
+    border-color: #e7e7e7;
+    height: 70px;
+    padding-top: 10px;
+}
+
+.navbar-defualt .navbar-nav > li > a {
+        padding-top: 15px;
+        padding-bottom: 15px;
+        color: white;
+        font-family: myfont2;
+
+}
+
+.nav > li 
+{
+    position:relative;
+    display:block;
+    height:75px;
+   
+
+}
+.nav > li > a:hover, .nav > li > a:focus {
+        text-decoration: none;
+        color: orange;
+        background-color:transparent;
+
+}
+.myfooter {
+    background-color:#373333 ;
+    padding-top: 10px;
+    font-family: myfont2;
+    text-align: justify;
+    color:white;
+}
+.subfooter {
+    background-color: #6f6e6e;
+    font-family: myfont;
+    color: white;
+   padding:10px;
+    text-align: center;
+}
+.myfooter a {
+    color:white;
+}
+svg:not(:root).svg-inline--fa {
+    overflow: visible;
+    transform: scale(-1,1);
+}

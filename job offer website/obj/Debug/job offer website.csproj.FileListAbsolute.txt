@@ -1,0 +1,75 @@
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\job offer website.dll.config
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\job offer website.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\job offer website.pdb
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\roslyn\csc.exe
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\roslyn\csc.exe.config
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\roslyn\csc.rsp
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\roslyn\csi.exe
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\roslyn\csi.exe.config
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\roslyn\csi.rsp
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\roslyn\System.AppContext.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\roslyn\System.Console.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\roslyn\System.IO.Compression.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\roslyn\System.IO.Pipes.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\roslyn\System.Security.Claims.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\roslyn\System.Threading.Thread.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\roslyn\System.ValueTuple.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\roslyn\System.Xml.XPath.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\roslyn\vbc.exe
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\roslyn\vbc.exe.config
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\roslyn\vbc.rsp
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\roslyn\VBCSCompiler.exe
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\EntityFramework.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\EntityFramework.SqlServer.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\System.Web.Helpers.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\System.Web.Mvc.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\System.Web.Razor.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\System.Web.Webpages.Deployment.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\System.Web.Webpages.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\System.Web.Webpages.Razor.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\EntityFramework.xml
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\EntityFramework.SqlServer.xml
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\System.Web.Razor.xml
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\System.Web.Webpages.xml
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\System.Web.Webpages.Deployment.xml
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\System.Web.Webpages.Razor.xml
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\System.Web.Helpers.xml
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\System.Web.Mvc.xml
+C:\Users\yousef\source\repos\job offer website\job offer website\obj\Debug\job offer website.csprojResolveAssemblyReference.cache
+C:\Users\yousef\source\repos\job offer website\job offer website\obj\Debug\job offer website.csproj.CoreCompileInputs.cache
+C:\Users\yousef\source\repos\job offer website\job offer website\obj\Debug\job offer website.csproj.CopyComplete
+C:\Users\yousef\source\repos\job offer website\job offer website\obj\Debug\job offer website.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\obj\Debug\job offer website.pdb
