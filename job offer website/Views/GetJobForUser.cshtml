@@ -1,0 +1,33 @@
+﻿@model IEnumerable<job_offer_website.Models.ApplyForJob>
+@{
+    ViewBag.Title = "GetJobForUser";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<h2>GetJobForUser</h2>
+<table>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.job.JobTitle);
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.Message);
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ApplyDate);
+        </th>
+    </tr>
+    @foreach (var item in Model)
+    {
+       
+
+        <td>
+            @Html.DisplayName("Message");
+        </td>
+        <td>
+            @Html.DisplayName("ApplyData");
+        </td>
+
+    }
+</table>

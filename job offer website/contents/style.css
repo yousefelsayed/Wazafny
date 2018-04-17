@@ -9,7 +9,7 @@
 }
 
 .navbar-defualt {
-    background-color: #808080;
+    background-color: #262626;
     border-color: #e7e7e7;
     height: 70px;
     padding-top: 10px;
@@ -22,6 +22,13 @@
         font-family: myfont2;
 
 }
+.navbar-brand img {
+    width: 50px;
+    color: transparent;
+    margin: -50px auto;
+    color:white;
+
+}
 
 .nav > li 
 {
@@ -31,24 +38,34 @@
    
 
 }
-.nav > li > a:hover, .nav > li > a:focus {
+    .nav > li > a:hover, .nav > li > a:focus {
         text-decoration: none;
-        color: orange;
-        background-color:transparent;
-
-}
+        color: #fac42b;
+        background-color: transparent;
+    }
 .myfooter {
-    background-color:#373333 ;
+    background-color: #262626;
     padding-top: 10px;
     font-family: myfont2;
     text-align: justify;
-    color:white;
+    color: white;
+    margin-bottom: 0px;
+    border-radius: 0;
+}
+.myfooter h3::after {
+    content: "";
+    display: block;
+    width: 60px;
+    height: 3px;
+    background-color: #fac42b;
+    margin-top: 12px;
+    margin-bottom: 15px;
 }
 .subfooter {
-    background-color: #6f6e6e;
+    background-color: #000000;
     font-family: myfont;
     color: white;
-   padding:10px;
+    padding: 10px;
     text-align: center;
 }
 .myfooter a {
@@ -57,4 +74,36 @@
 svg:not(:root).svg-inline--fa {
     overflow: visible;
     transform: scale(-1,1);
+}
+
+
+.maincontainer{
+    margin:15px;
+}
+body{
+    font-family:myfont;
+}
+#searchName {
+    width: 160px;
+    border: solid #ccc;
+    border-radius: 7px;
+    background-color: white;
+    background-repeat: no-repeat;
+    padding: 10px 20px;
+    background-image: url(../Images/698956-icon-111-search-128.png);
+    background-position: left;
+    margin:-15px;
+    transition:width .4s ease-in-out;
+}
+#searchName:focus
+{
+    width:100%;
+}
+.img-size{
+    font-size:90px;
+
+}
+.sizeul
+{
+    display:block;
 }

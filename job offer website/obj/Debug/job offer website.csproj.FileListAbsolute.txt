@@ -49,27 +49,64 @@ C:\Users\yousef\source\repos\job offer website\job offer website\bin\roslyn\vbc.
 C:\Users\yousef\source\repos\job offer website\job offer website\bin\roslyn\vbc.rsp
 C:\Users\yousef\source\repos\job offer website\job offer website\bin\roslyn\VBCSCompiler.exe
 C:\Users\yousef\source\repos\job offer website\job offer website\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\Antlr3.Runtime.dll
 C:\Users\yousef\source\repos\job offer website\job offer website\bin\EntityFramework.dll
 C:\Users\yousef\source\repos\job offer website\job offer website\bin\EntityFramework.SqlServer.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\Microsoft.AspNet.Identity.Owin.dll
 C:\Users\yousef\source\repos\job offer website\job offer website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\Microsoft.Owin.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\Microsoft.Owin.Security.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\Microsoft.Owin.Security.OAuth.dll
 C:\Users\yousef\source\repos\job offer website\job offer website\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\Newtonsoft.Json.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\Owin.dll
 C:\Users\yousef\source\repos\job offer website\job offer website\bin\System.Web.Helpers.dll
 C:\Users\yousef\source\repos\job offer website\job offer website\bin\System.Web.Mvc.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\System.Web.Optimization.dll
 C:\Users\yousef\source\repos\job offer website\job offer website\bin\System.Web.Razor.dll
 C:\Users\yousef\source\repos\job offer website\job offer website\bin\System.Web.Webpages.Deployment.dll
 C:\Users\yousef\source\repos\job offer website\job offer website\bin\System.Web.Webpages.dll
 C:\Users\yousef\source\repos\job offer website\job offer website\bin\System.Web.Webpages.Razor.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\WebGrease.dll
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\Antlr3.Runtime.pdb
 C:\Users\yousef\source\repos\job offer website\job offer website\bin\EntityFramework.xml
 C:\Users\yousef\source\repos\job offer website\job offer website\bin\EntityFramework.SqlServer.xml
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\Microsoft.AspNet.Identity.Owin.xml
 C:\Users\yousef\source\repos\job offer website\job offer website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\Microsoft.Owin.xml
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\Microsoft.Owin.Security.xml
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\Newtonsoft.Json.xml
+C:\Users\yousef\source\repos\job offer website\job offer website\bin\System.Web.Optimization.xml
 C:\Users\yousef\source\repos\job offer website\job offer website\bin\System.Web.Razor.xml
 C:\Users\yousef\source\repos\job offer website\job offer website\bin\System.Web.Webpages.xml
 C:\Users\yousef\source\repos\job offer website\job offer website\bin\System.Web.Webpages.Deployment.xml
 C:\Users\yousef\source\repos\job offer website\job offer website\bin\System.Web.Webpages.Razor.xml
 C:\Users\yousef\source\repos\job offer website\job offer website\bin\System.Web.Helpers.xml
 C:\Users\yousef\source\repos\job offer website\job offer website\bin\System.Web.Mvc.xml
-C:\Users\yousef\source\repos\job offer website\job offer website\obj\Debug\job offer website.csprojResolveAssemblyReference.cache
+C:\Users\yousef\source\repos\job offer website\job offer website\obj\Debug\job_offer_website.Migrations.InitialCreate.resources
+C:\Users\yousef\source\repos\job offer website\job offer website\obj\Debug\job_offer_website.Migrations.AddNewColToUsers.resources
+C:\Users\yousef\source\repos\job offer website\job offer website\obj\Debug\job_offer_website.Migrations.AddGendreColumn.resources
+C:\Users\yousef\source\repos\job offer website\job offer website\obj\Debug\job_offer_website.Migrations.AddCategoryTable.resources
+C:\Users\yousef\source\repos\job offer website\job offer website\obj\Debug\job_offer_website.Migrations.AddJobColumn.resources
+C:\Users\yousef\source\repos\job offer website\job offer website\obj\Debug\job_offer_website.Migrations.Role.resources
+C:\Users\yousef\source\repos\job offer website\job offer website\obj\Debug\job_offer_website.Migrations.ApplyForJob.resources
+C:\Users\yousef\source\repos\job offer website\job offer website\obj\Debug\job_offer_website.Migrations.ApplyForJobs.resources
+C:\Users\yousef\source\repos\job offer website\job offer website\obj\Debug\job offer website.csproj.GenerateResource.cache
 C:\Users\yousef\source\repos\job offer website\job offer website\obj\Debug\job offer website.csproj.CoreCompileInputs.cache
 C:\Users\yousef\source\repos\job offer website\job offer website\obj\Debug\job offer website.csproj.CopyComplete
 C:\Users\yousef\source\repos\job offer website\job offer website\obj\Debug\job offer website.dll
 C:\Users\yousef\source\repos\job offer website\job offer website\obj\Debug\job offer website.pdb
+C:\Users\yousef\source\repos\job offer website\job offer website\obj\Debug\job_offer_website.Migrations.ApplyForJobs1.resources
+C:\Users\yousef\source\repos\job offer website\job offer website\obj\Debug\job offer website.csprojResolveAssemblyReference.cache
+C:\Users\yousef\source\repos\job offer website\job offer website\obj\Debug\job_offer_website.Migrations.EditJobModel.resources

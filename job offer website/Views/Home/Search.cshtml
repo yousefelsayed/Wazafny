@@ -1,0 +1,26 @@
+﻿@model IEnumerable<job_offer_website.Models.Job>
+
+@{
+    ViewBag.Title = "Search";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+   <div class="panel panel-default" style="padding:20px;">
+        <h1 class="panel-heading">نتائج البحث</h1>
+     
+        <div class="row">
+            @foreach (var i in Model)
+            {
+
+                <div class="col-md-3 thumbnail" style="margin-left:20px; margin-bottom:10px ;height:380px;">
+                    <img src="~/Uploads/@i.JobImage" />
+                    <h2">@Html.DisplayFor(m => i.JobTitle)</h2">
+                    <h5">@Html.DisplayFor(m => i.JobContent)</h5">
+                    <br />
+                    @Html.ActionLink("التفاصيل", "Details", new { id = i.Id }, new { @class = "btn btn-primary" })
+                </div>
+
+            }
+
+            </div>
+        </div>

@@ -1,0 +1,37 @@
+﻿@model IEnumerable<job_offer_website.Models.JobsViewModel>
+    @foreach (var jr in Model)
+    {
+        <table class="table table-hovered table-bordered">
+            <tr>
+                <h2 style="header">
+                    @jr.JobTitle
+                </h2>
+                <th>
+                   أسم الباحث
+                </th>
+                <th>
+                   نص الرسالة
+                </th>
+                <th>
+                   تاريخ التقدم
+                </th>
+            </tr>
+            @foreach (var item in jr.Items)
+            {
+          <tr>
+              <th>
+                  @item.User.UserName
+
+              </th>
+              <th>
+                  @item.Message
+
+              </th>
+              <th>
+                  @item.ApplyDate
+
+              </th>
+          </tr>
+            }
+        </table>
+    }
